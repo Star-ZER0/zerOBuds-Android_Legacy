@@ -6,12 +6,9 @@ import android.bluetooth.BluetoothManager
 import android.companion.CompanionDeviceManager
 import android.os.Build
 import android.os.Bundle
-<<<<<<< HEAD
 import android.os.Process
 import android.window.OnBackInvokedCallback
 import android.window.OnBackInvokedDispatcher
-=======
->>>>>>> parent of 27606e5 (feat: Add timelock)
 import androidx.activity.ComponentActivity
 import androidx.activity.SystemBarStyle
 import androidx.activity.compose.setContent
