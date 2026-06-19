@@ -1,0 +1,157 @@
+<resources>
+    <string name="chs_app_name">zerOBuds</string>
+
+    <!-- 连接 -->
+    <string name="chs_connecting">连接中…</string>
+    <string name="chs_connect_failed">连接失败，请确保设备在附近且已开机</string>
+    <string name="chs_retry">重试</string>
+    <string name="chs_select_device">选择蓝牙设备</string>
+    <string name="chs_no_paired_devices">未找到已配对设备，请先在系统蓝牙设置中配对耳机</string>
+    <string name="chs_unknown_device">未知设备</string>
+    <string name="chs_input_mac_manually">手动输入 MAC 地址</string>
+    <string name="chs_input_mac_title">输入设备 MAC 地址</string>
+    <string name="chs_connect">连接</string>
+    <string name="chs_cancel">取消</string>
+    <string name="chs_bt_permission_required">需要蓝牙权限才能发现耳机</string>
+    <string name="chs_grant_permission">授予权限</string>
+
+    <!-- 电量 -->
+    <string name="chs_batt_left">左耳</string>
+    <string name="chs_batt_right">右耳</string>
+    <string name="chs_batt_case">充电盒</string>
+
+    <!-- 佩戴状态 -->
+    <string name="chs_wear_wearing">佩戴中</string>
+    <string name="chs_wear_in_case">在盒中</string>
+    <string name="chs_wear_removed">已取下</string>
+    <string name="chs_wear_disconnected">未连接</string>
+
+    <!-- 连接设备 -->
+    <string name="chs_connected_devices">连接设备</string>
+    <string name="chs_device_active">活跃</string>
+    <string name="chs_device_connected">已连接</string>
+    <string name="chs_device_disconnected">未连接</string>
+
+    <!-- 降噪 -->
+    <string name="chs_noise_control">降噪控制</string>
+    <string name="chs_anc_off">关闭</string>
+    <string name="chs_noise_cancellation">降噪</string>
+    <string name="chs_noise_cancellation_summary">降低环境噪音</string>
+    <string name="chs_transparency">通透</string>
+    <string name="chs_transparency_summary">允许环境声音传入</string>
+    <string name="chs_adaptive">自适应</string>
+    <string name="chs_adaptive_summary">根据环境自动调节降噪等级</string>
+
+    <!-- 降噪等级 -->
+    <string name="chs_noise_level_title">降噪等级</string>
+    <string name="chs_noise_level_smart">智能</string>
+    <string name="chs_noise_level_smart_summary">根据环境自动调节降噪深度</string>
+    <string name="chs_noise_level_light">轻度</string>
+    <string name="chs_noise_level_medium">均衡</string>
+    <string name="chs_noise_level_deep">深度</string>
+
+    <!-- 人声增强 -->
+    <string name="chs_vocal_enhancement">人声增强</string>
+    <string name="chs_vocal_enhancement_summary">增强人声清晰度，使通话和语音更易听清</string>
+
+    <!-- 空间效果 -->
+    <string name="chs_spatial_title">空间效果</string>
+    <string name="chs_spatial_sound">空间音效</string>
+    <string name="chs_spatial_sound_summary">启用 3D 空间音效</string>
+    <string name="chs_spatial_audio">空间音频</string>
+    <string name="chs_spatial_audio_off">关闭</string>
+    <string name="chs_spatial_audio_mode1">固定头部追踪</string>
+    <string name="chs_spatial_audio_mode2">头部追踪</string>
+
+    <!-- 系统 -->
+    <string name="chs_system_title">系统</string>
+    <string name="chs_bluetooth_codec">蓝牙音频编解码器</string>
+    <string name="chs_bluetooth_sample_rate">蓝牙音频采样率</string>
+    <string name="chs_bluetooth_bits_per_sample">蓝牙音频每样本位数</string>
+    <string name="chs_bluetooth_channel_mode">蓝牙音频声道模式</string>
+    <string name="chs_bluetooth_codec_default">默认</string>
+    <string name="chs_bluetooth_codec_permission">蓝牙设备访问权限</string>
+    <string name="chs_bluetooth_codec_permission_summary">需要关联设备才能配置蓝牙音频编解码器</string>
+    <string name="chs_bluetooth_codec_error">编解码器读取失败</string>
+
+    <!-- 其他 -->
+    <string name="chs_other_title">其他</string>
+    <string name="chs_game_mode">游戏模式</string>
+    <string name="chs_game_mode_summary">低延迟音频模式</string>
+    <string name="chs_game_mode_1">低延迟模式</string>
+    <string name="chs_game_mode_1_summary">低延迟音频模式</string>
+    <string name="chs_game_mode_2">游戏模式</string>
+    <string name="chs_game_mode_2_summary">低延迟音频模式</string>
+    <string name="chs_auto_play_pause">自动播放暂停</string>
+    <string name="chs_auto_play_pause_summary">戴上耳机自动播放，取下自动暂停</string>
+    <string name="chs_hi_res">高清音频</string>
+    <string name="chs_hi_res_summary">启用高解析度音频编解码</string>
+    <string name="chs_dual_device">双设备连接</string>
+    <string name="chs_dual_device_summary">同时连接两台蓝牙设备</string>
+    <string name="chs_windows_swift_pair">Windows 快速配对</string>
+    <string name="chs_windows_swift_pair_summary">允许在 Windows 设备上快速配对</string>
+    <string name="chs_prompt_volume">提示音音量</string>
+    <string name="chs_prompt_volume_max">最大</string>
+    <string name="chs_volume_warning_title">音量警告</string>
+    <string name="chs_volume_warning_summary">音量过大可能损害听力，请摘下耳机！</string>
+    <string name="chs_continue_btn">继续</string>
+
+    <!-- 设置 -->
+    <string name="chs_settings">设置</string>
+    <string name="chs_theme_title">主题</string>
+    <string name="chs_theme_follow_system">跟随系统</string>
+    <string name="chs_theme_light">浅色</string>
+    <string name="chs_theme_dark">深色</string>
+
+    <!-- 语言 -->
+    <string name="chs_language_title">语言</string>
+    <string name="chs_language_follow_system">跟随系统</string>
+    <string name="chs_language_english">English</string>
+    <string name="chs_language_chinese">中文</string>
+
+    <!-- 日志 -->
+    <string name="chs_log_title">RFCOMM 日志</string>
+    <string name="chs_log_clear">清空</string>
+    <string name="chs_log_empty">暂无日志</string>
+    <string name="chs_log_send_hint">输入 hex 数据发送</string>
+    <string name="chs_log_send">发送</string>
+
+    <!-- 开发者 -->
+    <string name="chs_dev_title">开发者</string>
+    <string name="chs_developer_mode">开发者模式</string>
+    <string name="chs_developer_mode_summary">启用后记录 RFCOMM 通信日志并显示终端入口</string>
+    <string name="chs_compatibility_scheme">兼容性方案</string>
+    <string name="chs_rfcomm_channel">RFCOMM 信道</string>
+    <string name="chs_rfcomm_channel_summary">连接使用的 RFCOMM 信道号，修改后需重新连接生效</string>
+    <string name="chs_subscribe_broadcast">订阅广播</string>
+    <string name="chs_subscribe_broadcast_summary">连接后自动请求广播码列表并订阅，关闭后仅能接收主动推送的通知</string>
+    <string name="chs_predictive_back">预测性返回</string>
+    <string name="chs_predictive_back_summary">启用系统预测性返回动画，关闭后使用传统返回行为</string>
+
+    <!-- 设置失败 -->
+    <string name="chs_setting_failed">设置失败</string>
+    <string name="chs_setting_failed_summary">设置 %1$s 失败，已恢复原状态</string>
+    <string name="chs_ok">确定</string>
+
+    <!-- 兼容性 -->
+    <string name="chs_compatibility">兼容性</string>
+    <string name="chs_compatibility_summary">为当前设备自定义显示的设置项</string>
+    <string name="chs_compatibility_summary_disconnected">连接设备后可配置</string>
+    <string name="chs_compatibility_connection">连接</string>
+    <string name="chs_compatibility_display">显示</string>
+    <string name="chs_compatibility_hide_disabled">隐藏已禁用的开关</string>
+    <string name="chs_compatibility_hide_disabled_summary">将不支持的功能开关从界面中隐藏，而非置灰显示</string>
+    <string name="chs_compatibility_manual_hide">手动隐藏</string>
+    <string name="chs_compatibility_hide_adaptive">隐藏自适应模式</string>
+    <string name="chs_compatibility_hide_adaptive_summary">在降噪控制中隐藏自适应选项</string>
+    <string name="chs_compatibility_hide_vocal_enhancement">隐藏人声增强</string>
+    <string name="chs_compatibility_hide_vocal_enhancement_summary">在通透模式下隐藏人声增强开关</string>
+    <string name="chs_compatibility_hide_spatial_audio">隐藏空间音频</string>
+    <string name="chs_compatibility_hide_spatial_audio_summary">隐藏空间音频模式下拉选择</string>
+    <string name="chs_compatibility_hide_game_mode_1">隐藏低延迟模式</string>
+    <string name="chs_compatibility_hide_game_mode_1_summary">隐藏低延迟模式开关</string>
+    <string name="chs_compatibility_hide_game_mode_2">隐藏游戏模式</string>
+    <string name="chs_compatibility_hide_game_mode_2_summary">隐藏游戏模式开关</string>
+    <string name="chs_compatibility_hide_prompt_volume">隐藏提示音音量</string>
+    <string name="chs_compatibility_hide_prompt_volume_summary">隐藏提示音音量下拉选择</string>
+</resources>

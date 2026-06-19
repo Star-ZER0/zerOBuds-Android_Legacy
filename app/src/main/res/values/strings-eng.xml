@@ -1,0 +1,157 @@
+<resources>
+    <string name="eng_app_name">zerOBuds</string>
+
+    <!-- Connection -->
+    <string name="eng_connecting">Connecting…</string>
+    <string name="eng_connect_failed">Connection failed. Make sure the device is nearby and powered on</string>
+    <string name="eng_retry">Retry</string>
+    <string name="eng_select_device">Select Bluetooth Device</string>
+    <string name="eng_no_paired_devices">No paired devices found. Please pair your earbuds in system Bluetooth settings first</string>
+    <string name="eng_unknown_device">Unknown Device</string>
+    <string name="eng_input_mac_manually">Enter MAC address manually</string>
+    <string name="eng_input_mac_title">Enter Device MAC Address</string>
+    <string name="eng_connect">Connect</string>
+    <string name="eng_cancel">Cancel</string>
+    <string name="eng_bt_permission_required">Bluetooth permission is required to discover earbuds</string>
+    <string name="eng_grant_permission">Grant Permission</string>
+
+    <!-- Battery -->
+    <string name="eng_batt_left">Left</string>
+    <string name="eng_batt_right">Right</string>
+    <string name="eng_batt_case">Case</string>
+
+    <!-- Wear Status -->
+    <string name="eng_wear_wearing">Wearing</string>
+    <string name="eng_wear_in_case">In Case</string>
+    <string name="eng_wear_removed">Removed</string>
+    <string name="eng_wear_disconnected">Disconnected</string>
+
+    <!-- Connected Devices -->
+    <string name="eng_connected_devices">Connected Devices</string>
+    <string name="eng_device_active">Active</string>
+    <string name="eng_device_connected">Connected</string>
+    <string name="eng_device_disconnected">Disconnected</string>
+
+    <!-- Noise Control -->
+    <string name="eng_noise_control">Noise Control</string>
+    <string name="eng_anc_off">Off</string>
+    <string name="eng_noise_cancellation">Noise Cancellation</string>
+    <string name="eng_noise_cancellation_summary">Reduce ambient noise</string>
+    <string name="eng_transparency">Transparency</string>
+    <string name="eng_transparency_summary">Allow ambient sound in</string>
+    <string name="eng_adaptive">Adaptive</string>
+    <string name="eng_adaptive_summary">Automatically adjust noise cancellation level based on environment</string>
+
+    <!-- Noise Level -->
+    <string name="eng_noise_level_title">Noise Cancellation Level</string>
+    <string name="eng_noise_level_smart">Smart</string>
+    <string name="eng_noise_level_smart_summary">Automatically adjust noise cancellation depth</string>
+    <string name="eng_noise_level_light">Light</string>
+    <string name="eng_noise_level_medium">Medium</string>
+    <string name="eng_noise_level_deep">Deep</string>
+
+    <!-- Vocal Enhancement -->
+    <string name="eng_vocal_enhancement">Vocal Enhancement</string>
+    <string name="eng_vocal_enhancement_summary">Enhance vocal clarity for clearer calls and speech</string>
+
+    <!-- Spatial -->
+    <string name="eng_spatial_title">Spatial Effects</string>
+    <string name="eng_spatial_sound">Spatial Sound</string>
+    <string name="eng_spatial_sound_summary">Enable 3D spatial sound</string>
+    <string name="eng_spatial_audio">Spatial Audio</string>
+    <string name="eng_spatial_audio_off">Off</string>
+    <string name="eng_spatial_audio_mode1">Fixed Head Tracking</string>
+    <string name="eng_spatial_audio_mode2">Head Tracking</string>
+
+    <!-- System -->
+    <string name="eng_system_title">System</string>
+    <string name="eng_bluetooth_codec">Bluetooth Audio Codec</string>
+    <string name="eng_bluetooth_sample_rate">Bluetooth Audio Sample Rate</string>
+    <string name="eng_bluetooth_bits_per_sample">Bluetooth Audio Bits Per Sample</string>
+    <string name="eng_bluetooth_channel_mode">Bluetooth Audio Channel Mode</string>
+    <string name="eng_bluetooth_codec_default">Default</string>
+    <string name="eng_bluetooth_codec_permission">Bluetooth Device Access</string>
+    <string name="eng_bluetooth_codec_permission_summary">Device association is required to configure Bluetooth audio codec</string>
+    <string name="eng_bluetooth_codec_error">Codec read failed</string>
+
+    <!-- Other -->
+    <string name="eng_other_title">Other</string>
+    <string name="eng_game_mode">Game Mode</string>
+    <string name="eng_game_mode_summary">Low latency audio mode</string>
+    <string name="eng_game_mode_1">Low Latency Mode</string>
+    <string name="eng_game_mode_1_summary">Low latency audio mode</string>
+    <string name="eng_game_mode_2">Game Mode</string>
+    <string name="eng_game_mode_2_summary">Low latency audio mode</string>
+    <string name="eng_auto_play_pause">Auto Play/Pause</string>
+    <string name="eng_auto_play_pause_summary">Auto play when wearing, auto pause when removed</string>
+    <string name="eng_hi_res">Hi-Res Audio</string>
+    <string name="eng_hi_res_summary">Enable high-resolution audio codec</string>
+    <string name="eng_dual_device">Dual Device</string>
+    <string name="eng_dual_device_summary">Connect to two Bluetooth devices simultaneously</string>
+    <string name="eng_windows_swift_pair">Windows Swift Pair</string>
+    <string name="eng_windows_swift_pair_summary">Allow quick pairing with Windows devices</string>
+    <string name="eng_prompt_volume">Prompt Volume</string>
+    <string name="eng_prompt_volume_max">Max</string>
+    <string name="eng_volume_warning_title">Volume Warning</string>
+    <string name="eng_volume_warning_summary">High volume may damage your hearing. Please remove your earbuds!</string>
+    <string name="eng_continue_btn">Continue</string>
+
+    <!-- Settings -->
+    <string name="eng_settings">Settings</string>
+    <string name="eng_theme_title">Theme</string>
+    <string name="eng_theme_follow_system">Follow System</string>
+    <string name="eng_theme_light">Light</string>
+    <string name="eng_theme_dark">Dark</string>
+
+    <!-- Language -->
+    <string name="eng_language_title">Language</string>
+    <string name="eng_language_follow_system">Follow System</string>
+    <string name="eng_language_english">English</string>
+    <string name="eng_language_chinese">中文</string>
+
+    <!-- Log -->
+    <string name="eng_log_title">RFCOMM Log</string>
+    <string name="eng_log_clear">Clear</string>
+    <string name="eng_log_empty">No logs yet</string>
+    <string name="eng_log_send_hint">Enter hex data to send</string>
+    <string name="eng_log_send">Send</string>
+
+    <!-- Developer -->
+    <string name="eng_dev_title">Developer</string>
+    <string name="eng_developer_mode">Developer Mode</string>
+    <string name="eng_developer_mode_summary">Enable RFCOMM communication logging and show terminal entry</string>
+    <string name="eng_compatibility_scheme">Compatibility Scheme</string>
+    <string name="eng_rfcomm_channel">RFCOMM Channel</string>
+    <string name="eng_rfcomm_channel_summary">Channel number used for RFCOMM connection, requires reconnect to take effect</string>
+    <string name="eng_subscribe_broadcast">Subscribe Broadcast</string>
+    <string name="eng_subscribe_broadcast_summary">Auto query and subscribe broadcast codes after connecting, disable to only receive pushed notifications</string>
+    <string name="eng_predictive_back">Predictive Back</string>
+    <string name="eng_predictive_back_summary">Enable system predictive back animation, disable to use traditional back behavior</string>
+
+    <!-- Setting Failed -->
+    <string name="eng_setting_failed">Setting Failed</string>
+    <string name="eng_setting_failed_summary">Failed to set %1$s, reverted to previous state</string>
+    <string name="eng_ok">OK</string>
+
+    <!-- Compatibility -->
+    <string name="eng_compatibility">Compatibility</string>
+    <string name="eng_compatibility_summary">Customize visible settings for current device</string>
+    <string name="eng_compatibility_summary_disconnected">Connect a device to configure</string>
+    <string name="eng_compatibility_connection">Connection</string>
+    <string name="eng_compatibility_display">Display</string>
+    <string name="eng_compatibility_hide_disabled">Hide disabled switches</string>
+    <string name="eng_compatibility_hide_disabled_summary">Hide unsupported switches instead of greying them out</string>
+    <string name="eng_compatibility_manual_hide">Manual Hide</string>
+    <string name="eng_compatibility_hide_adaptive">Hide Adaptive Mode</string>
+    <string name="eng_compatibility_hide_adaptive_summary">Hide adaptive option in noise control</string>
+    <string name="eng_compatibility_hide_vocal_enhancement">Hide Vocal Enhancement</string>
+    <string name="eng_compatibility_hide_vocal_enhancement_summary">Hide vocal enhancement switch in transparency mode</string>
+    <string name="eng_compatibility_hide_spatial_audio">Hide Spatial Audio</string>
+    <string name="eng_compatibility_hide_spatial_audio_summary">Hide spatial audio mode dropdown</string>
+    <string name="eng_compatibility_hide_game_mode_1">Hide Low Latency Mode</string>
+    <string name="eng_compatibility_hide_game_mode_1_summary">Hide Low Latency Mode switch</string>
+    <string name="eng_compatibility_hide_game_mode_2">Hide Game Mode</string>
+    <string name="eng_compatibility_hide_game_mode_2_summary">Hide Game Mode switch</string>
+    <string name="eng_compatibility_hide_prompt_volume">Hide Prompt Volume</string>
+    <string name="eng_compatibility_hide_prompt_volume_summary">Hide prompt volume dropdown</string>
+</resources>
